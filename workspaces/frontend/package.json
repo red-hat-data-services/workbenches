@@ -160,7 +160,7 @@
     "@typescript-eslint/eslint-plugin": "^8.31.1",
     "@typescript-eslint/parser": "^8.31.1",
     "babel-jest": "^29.7.0",
-    "babel-plugin-istanbul": "^7.0.0",
+    "babel-plugin-istanbul": "^8.0.0",
     "cypress": "^14.4.1",
     "cypress-axe": "^1.6.0",
     "cypress-high-resolution": "^1.0.0",
