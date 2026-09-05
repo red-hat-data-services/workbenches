@@ -87,7 +87,7 @@
     "imagemin": "^9.0.0",
     "jest": "^30.3.0",
     "jest-environment-jsdom": "^29.7.0",
-    "junit-report-merger": "^7.0.1",
+    "junit-report-merger": "^9.0.0",
     "mini-css-extract-plugin": "^2.9.0",
     "monaco-editor-webpack-plugin": "^7.1.1",
     "postcss": "^8.4.49",
