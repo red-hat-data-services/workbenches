@@ -6,7 +6,7 @@ require (
 	github.com/go-logr/logr v1.4.3
 	github.com/onsi/ginkgo/v2 v2.22.0
 	github.com/onsi/gomega v1.36.1
-	golang.org/x/time v0.15.0
+	golang.org/x/time v0.16.0
 	google.golang.org/protobuf v1.36.12-0.20260120151049-f2248ac996af
 	istio.io/api v1.22.8
 	istio.io/client-go v1.22.8
