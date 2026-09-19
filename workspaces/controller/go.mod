@@ -96,7 +96,7 @@ require (
 	golang.org/x/term v0.43.0 // indirect
 	golang.org/x/text v0.37.0 // indirect
 	golang.org/x/tools v0.44.0 // indirect
-	gomodules.xyz/jsonpatch/v2 v2.4.0 // indirect
+	gomodules.xyz/jsonpatch/v3 v3.0.1 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20250707201910-8d1bb00bc6a7 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250826171959-ef028d996bc1 // indirect
 	google.golang.org/grpc v1.75.1 // indirect
