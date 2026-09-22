@@ -8,7 +8,7 @@ require (
 	github.com/onsi/gomega v1.36.1
 	golang.org/x/time v0.15.0
 	google.golang.org/protobuf v1.36.12-0.20260120151049-f2248ac996af
-	istio.io/api v1.22.8
+	istio.io/api v1.31.1
 	istio.io/client-go v1.22.8
 	k8s.io/api v0.34.1
 	k8s.io/apimachinery v0.34.1
